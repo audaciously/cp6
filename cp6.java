@@ -9,3 +9,5 @@ myHashTable.get(key); //returns null if the key is not present
 myHashTable.containsKey(key); //returns a boolean value, indicating the presence of a key
 
 myHashTable.size(); //number of (key, value) pairs in the hash table
+
+//10-20
